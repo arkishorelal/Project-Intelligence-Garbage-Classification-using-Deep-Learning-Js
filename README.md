@@ -1,9 +1,14 @@
 # Project-Garbage-classification
 PBL-NT-GP--20355-1682669998
+
 TEAM ID : NM2023TMID20200
+
 Project Title :Intelligent Garbage Classification using Deep Learning
+
 Faculty Mentor Name : Mr.L Vinoth Kumar
+
 Category : Artificial Intelligence
+
 TEAM MEMBERS:
 
 RAMJI T B - Team Leader
