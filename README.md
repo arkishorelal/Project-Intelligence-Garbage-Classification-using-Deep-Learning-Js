@@ -36,6 +36,7 @@ Know how to pre-process/clean the data using different data preprocessing techni
 Know how to build a web application using the Flask framework.
 
 Pre Requisites :
+
 Install the following python packages
 
 pip install numpy
@@ -44,7 +45,9 @@ pip install scikit-learn
 pip install tensorflow==2.3.2
 pip install keras==2.3.1
 pip install Flask
+
 Prior Knowledge :
+
 You must have prior knowledge of following topics to complete this project.
 
 Deep Learning Concept
