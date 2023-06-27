@@ -108,9 +108,6 @@ Build Python Code
 <hr>
 
  
-  - [x] Quiz 1 <br>
-  - [x] Quiz 2 <br>
-  - [x] Quiz 3 <br>
 
 
 
